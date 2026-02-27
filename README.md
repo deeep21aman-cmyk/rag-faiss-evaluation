@@ -1,3 +1,5 @@
+⚠️ Requires OpenAI API key set as environment variable:
+export OPENAI_API_KEY=your_key_here
 # Retrieval-Augmented Generation System (FAISS + Evaluation)
 Overview
 
