@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+*.env
+
+# Data files
+data/*.json
+data/*.npy
+data/*.faiss
+
+# OS files
+.DS_Store
