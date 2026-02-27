@@ -13,6 +13,13 @@ This project implements a Retrieval-Augmented Generation (RAG) system built from
 
 The goal of this project was to understand and implement the full RAG lifecycle — from embedding generation and vector indexing to evaluation and performance tradeoff analysis.
 
+## Tech Stack
+
+- Python 3.11
+- OpenAI Embeddings API
+- FAISS (IndexFlatL2)
+- NumPy
+- LLM-based reranking
 ⸻
 
 System Architecture
